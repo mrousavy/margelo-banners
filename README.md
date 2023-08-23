@@ -1,4 +1,7 @@
 # test-repo
 Some GitHub tests
 
-![SVG Banner didn't render!](./banner.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.png">
+</picture>
+
