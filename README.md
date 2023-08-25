@@ -2,8 +2,8 @@
 Some GitHub tests
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./svg">
   <img alt="banner"
-    src="./banner-light.png">
+    src="./svg">
 </picture>
 
