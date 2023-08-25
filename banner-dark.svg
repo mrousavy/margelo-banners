@@ -1023,13 +1023,13 @@
     <filter id="image-color">
       <feComponentTransfer>
         <feFuncR type="linear" slope="1">
-          <animate attributeName="slope" values="1;3;1" dur="10s" repeatCount="indefinite" />
+          <animate attributeName="slope" values="1;2;1" dur="10s" repeatCount="indefinite" />
         </feFuncR>
         <feFuncG type="linear" slope="1">
-          <animate attributeName="slope" values="1;3;1" dur="10s" repeatCount="indefinite" />
+          <animate attributeName="slope" values="1;2;1" dur="10s" repeatCount="indefinite" />
         </feFuncG>
-        <feFuncB type="linear" slope="1">
-          <animate attributeName="slope" values="1;3;1" dur="10s" repeatCount="indefinite" />
+        <feFuncB type="linear" slope="1" >
+          <animate attributeName="slope" values="1;2;1" dur="10s" repeatCount="indefinite" />
         </feFuncB>
         <!-- <feFuncG type="linear" slope="1" ><animate attributeName="slope" values="1;1;3;1"
         dur="12"   repeatCount="indefinite"/> </feFuncG>
