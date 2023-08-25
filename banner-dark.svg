@@ -9,7 +9,7 @@
     <path fill="#181818" d="M0 0h663v168H0z"
       style="fill:#181818;fill:color(display-p3 .0958 .0958 .0958);fill-opacity:1" />
     <!-- <image href="bg.png" width="100%" height="100%" style="filter: url(#image-color);" /> -->
-    <image href="https://raw.githubusercontent.com/mrousavy/test-repo/main/bg-dark.png?token=GHSAT0AAAAAACGNMF27PHTGZVMMDPCCR5R4ZHI3CIA" width="110%" height="150%" style="filter:url(#image) url(#image-color);" y="-30" x="-30"/>
+    <image href="https://raw.githubusercontent.com/mrousavy/margelo-banners/main/bg-dark.png" width="110%" height="150%" style="filter:url(#image) url(#image-color);" y="-30" x="-30"/>
 
     <!-- <rect width="100%" height="100%" style="filter:url(#image);" /> -->
     <g opacity=".3">
