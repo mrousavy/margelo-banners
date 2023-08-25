@@ -1021,9 +1021,15 @@
     </filter>
     <filter id="image-color">
       <feComponentTransfer>
-        <feFuncR type="linear" slope="1">
-          <animate attributeName="slope" values="1;3;1" dur="10s" repeatCount="indefinite" />
+        <feFuncR type="linear" slope="0">
+          <animate attributeName="slope" values="1;1.2;1" dur="10s" repeatCount="indefinite" />
         </feFuncR>
+        <feFuncG type="linear" slope="1">
+          <animate attributeName="slope" values="1;1.2;1" dur="10s" repeatCount="indefinite" />
+        </feFuncG>
+        <feFuncB type="linear" slope="1">
+          <animate attributeName="slope" values="1;1.2;1" dur="10s" repeatCount="indefinite" />
+        </feFuncB>
         <!-- <feFuncG type="linear" slope="1" ><animate attributeName="slope" values="1;1;3;1"
         dur="12"   repeatCount="indefinite"/> </feFuncG>
         <feFuncB type="linear" slope="1" ><animate attributeName="slope" values="1;1;3;1" dur="18"
